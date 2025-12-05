@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Exercise1/" >
+  <Project Path="Exercise1/Exercise1.ExpressionCompiler.Tests/Exercise1.ExpressionCompiler.Tests.csproj" />
+  <Project Path="Exercise1/Exercise1.ExpressionCompiler/Exercise1.ExpressionCompiler.csproj" />
+  </Folder>
+  <Folder Name="/Exercise2/" > 
+ <Project Path="Exercise2/Exercise2.ServerlessPlugins.Tests/Exercise2.ServerlessPlugins.Tests.csproj" />
+  <Project Path="Exercise2/Exercise2.ServerlessPlugins/Exercise2.ServerlessPlugins.csproj" />
+  </Folder>
+  <Folder Name="/Exercise3/" > 
+  <Project Path="Exercise3/Exercise3.LambdaToSQL.Tests/Exercise3.LambdaToSQL.Tests.csproj" />
+  <Project Path="Exercise3/Exercise3.LambdaToSQL/Exercise3.LambdaToSQL.csproj" />
+  </Folder>
+</Solution>
