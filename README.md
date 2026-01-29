@@ -1,6 +1,6 @@
 # Exercices C# - Solutions et Explications
 
-Ce dépôt regroupe plusieurs exercices pratiques en C# autour de concepts avancés tels que la compilation d'expressions, les moteurs de règles métier, les plugins serverless et la conversion de lambda en SQL.
+Les informations contenues dans ce dépôt sont de classification publique. Ce dépôt regroupe plusieurs exercices pratiques en C# autour de concepts avancés tels que la compilation d'expressions, les moteurs de règles métier, les plugins serverless et la conversion de lambda en SQL.
 
 ## Structure du dépôt
 
